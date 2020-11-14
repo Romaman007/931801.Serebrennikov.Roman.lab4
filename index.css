@@ -11,6 +11,11 @@ body {
     background-color: #e1e5eb;
 }
 
+a
+{
+    text-decoration: none;
+}
+
 .img {
     position: relative;
     padding-left: 15%;
