@@ -11,9 +11,10 @@ body {
     background-color: #e1e5eb;
 }
 
-a
+li a
 {
     text-decoration: none;
+    color: #2e5473;
 }
 
 .img {
